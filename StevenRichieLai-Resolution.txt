@@ -1,4 +1,5 @@
 Steven Richie Lai Resolusi
 - Konsisten belajar koding
 - Dapat A di semua matkul
--  Menguasai Web Development
+- Menguasai Web Development
+- Bisa HTML, CSS, Javascript
