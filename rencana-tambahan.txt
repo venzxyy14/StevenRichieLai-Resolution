@@ -1,4 +1,4 @@
 - belajar cyber security
 - belajar linux
 - rakit pc
-- ternak ayam
+- pasang ubuntu
