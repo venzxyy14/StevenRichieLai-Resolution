@@ -1,3 +1,4 @@
 - belajar cyber security
 - belajar linux
-- ternak lele
+- rakit pc
+- pasang ubuntu
